@@ -1,0 +1,28 @@
+/* The .wrapper class is used to assign sytles ot the <div> that encloses all of our other content */
+.wrapper{
+    width: 620px;
+    height: 110px; 
+    margin: 0; 
+    padding: 10px;
+    border: 6px solid lightseagreen; 
+}
+
+.box
+{
+    width: 290px;
+    height: 100px;
+    margin: 0;
+    padding: 4px 6px;
+    font: 28px "Marker Felt", "Zapfino", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.indent 
+{
+    margin-left: 10px; 
+    padding-right: -30px; 
+}
+
+.
